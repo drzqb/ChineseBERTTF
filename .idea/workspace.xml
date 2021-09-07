@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa237efd-9272-49a0-b38e-9b624127363e" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/REALISE1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REALISE1.py" beforeDir="false" afterPath="$PROJECT_DIR$/REALISEC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pretrained/ChineseBERT-base/vocab.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pretrained/ChineseBERT-base/vocab.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1v0sATQJFD80ACN4Et4rh6Ijb4g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NLP-model-main" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonwork\ChineseBERTTF" />
+      <recent name="D:\pythonwork\ChineseBERTTF\pretrained\FinBERT_L-12_H-768_A-12" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonwork\ChineseBERTTF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.REALISEC">
+    <configuration name="CBERT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChineseBERTTF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CBERT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CCBERT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChineseBERTTF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CCBERT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="REALISEC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChineseBERTTF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\pythonwork\ChineseBERTTF\REALISEC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChineseBERTTF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ChineseBERTTF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.REALISEC" />
+        <item itemvalue="Python.CBERT" />
+        <item itemvalue="Python.CCBERT" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa237efd-9272-49a0-b38e-9b624127363e" name="默认更改列表" comment="" />
+      <created>1625710196877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625710196877</updated>
+      <workItem from="1625710198389" duration="3279000" />
+      <workItem from="1625749199000" duration="705000" />
+      <workItem from="1625803498992" duration="41855000" />
+      <workItem from="1626074826737" duration="14740000" />
+      <workItem from="1626153940725" duration="12212000" />
+      <workItem from="1626237435786" duration="15949000" />
+      <workItem from="1626309193984" duration="22466000" />
+      <workItem from="1626658246437" duration="4589000" />
+      <workItem from="1626696552160" duration="651000" />
+      <workItem from="1626701800713" duration="621000" />
+      <workItem from="1626704244241" duration="64000" />
+      <workItem from="1626704480091" duration="191000" />
+      <workItem from="1626838049810" duration="883000" />
+      <workItem from="1626883568971" duration="648000" />
+      <workItem from="1626917484838" duration="1473000" />
+      <workItem from="1626945046394" duration="1254000" />
+      <workItem from="1627031341519" duration="680000" />
+      <workItem from="1627118289150" duration="2022000" />
+      <workItem from="1627122946502" duration="649000" />
+      <workItem from="1627126837182" duration="37000" />
+      <workItem from="1627307916656" duration="713000" />
+      <workItem from="1627309350645" duration="20000" />
+      <workItem from="1627390773416" duration="1307000" />
+      <workItem from="1627474288445" duration="1359000" />
+      <workItem from="1627644535371" duration="743000" />
+      <workItem from="1627651726838" duration="606000" />
+      <workItem from="1627712170307" duration="67510000" />
+      <workItem from="1628219960306" duration="1663000" />
+      <workItem from="1628222248476" duration="45000" />
+      <workItem from="1628229121672" duration="626000" />
+      <workItem from="1628397861861" duration="612000" />
+      <workItem from="1628843804807" duration="629000" />
+      <workItem from="1628845379761" duration="37000" />
+      <workItem from="1629478563722" duration="86000" />
+      <workItem from="1630985472832" duration="2476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="2552" height="912" key="DiffContextDialog" timestamp="1626274622370">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="100" y="100" width="2552" height="912" key="DiffContextDialog/0.0.2752.1112@0.0.2752.1112" timestamp="1626274622370" />
+    <state x="1157" y="311" key="FileChooserDialogImpl" timestamp="1627976701041">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1157" y="311" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1627976701041" />
+    <state width="2753" height="1056" key="GridCell.Tab.0.bottom" timestamp="1627976850201">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="2753" height="1056" key="GridCell.Tab.0.bottom/0.0.2752.1112@0.0.2752.1112" timestamp="1627976850201" />
+    <state width="2753" height="1056" key="GridCell.Tab.0.center" timestamp="1627976850201">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="2753" height="1056" key="GridCell.Tab.0.center/0.0.2752.1112@0.0.2752.1112" timestamp="1627976850201" />
+    <state width="2753" height="1056" key="GridCell.Tab.0.left" timestamp="1627976850201">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="2753" height="1056" key="GridCell.Tab.0.left/0.0.2752.1112@0.0.2752.1112" timestamp="1627976850201" />
+    <state width="2753" height="1056" key="GridCell.Tab.0.right" timestamp="1627976850201">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="2753" height="1056" key="GridCell.Tab.0.right/0.0.2752.1112@0.0.2752.1112" timestamp="1627976850201" />
+    <state x="878" y="200" key="SettingsEditor" timestamp="1626157600618">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="878" y="200" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1626157600618" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$TFDataUtils.coverage" NAME="TFDataUtils Coverage Results" MODIFIED="1626314156367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$pytest_in_CBERT_py.coverage" NAME="pytest in CBERT.py Coverage Results" MODIFIED="1627714233071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1627827745447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$CBERT.coverage" NAME="CBERT Coverage Results" MODIFIED="1627875016263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$PlotUtils.coverage" NAME="PlotUtils Coverage Results" MODIFIED="1626589853920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$REALISE_ACUM.coverage" NAME="REALISE_ACUM Coverage Results" MODIFIED="1626271492825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$resnet18.coverage" NAME="resnet18 Coverage Results" MODIFIED="1627739996748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$REALISE.coverage" NAME="REALISE Coverage Results" MODIFIED="1627723372939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$CCBERT.coverage" NAME="CCBERT Coverage Results" MODIFIED="1627868229740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$ChineseBertTF.coverage" NAME="ChineseBertTF Coverage Results" MODIFIED="1625827547681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$test.coverage" NAME="test Coverage Results" MODIFIED="1627831413589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ChineseBERTTF$REALISE1.coverage" NAME="REALISE1 Coverage Results" MODIFIED="1627894080919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
