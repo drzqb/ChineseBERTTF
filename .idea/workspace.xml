@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa237efd-9272-49a0-b38e-9b624127363e" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REALISE1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REALISE1.py" beforeDir="false" afterPath="$PROJECT_DIR$/REALISEC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CCBERT.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pretrained/ChineseBERT-base/vocab.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pretrained/ChineseBERT-base/vocab.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +34,8 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NLP-model-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BertBasedCorrectionModels-master" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -214,7 +212,8 @@
       <workItem from="1628843804807" duration="629000" />
       <workItem from="1628845379761" duration="37000" />
       <workItem from="1629478563722" duration="86000" />
-      <workItem from="1630985472832" duration="2476000" />
+      <workItem from="1630985472832" duration="2804000" />
+      <workItem from="1630989008712" duration="2730000" />
     </task>
     <servers />
   </component>
@@ -229,10 +228,10 @@
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state x="100" y="100" width="2552" height="912" key="DiffContextDialog/0.0.2752.1112@0.0.2752.1112" timestamp="1626274622370" />
-    <state x="1157" y="311" key="FileChooserDialogImpl" timestamp="1627976701041">
+    <state x="1157" y="311" key="FileChooserDialogImpl" timestamp="1630989041081">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state x="1157" y="311" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1627976701041" />
+    <state x="1157" y="311" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1630989041081" />
     <state width="2753" height="1056" key="GridCell.Tab.0.bottom" timestamp="1627976850201">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
@@ -249,10 +248,10 @@
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state width="2753" height="1056" key="GridCell.Tab.0.right/0.0.2752.1112@0.0.2752.1112" timestamp="1627976850201" />
-    <state x="878" y="200" key="SettingsEditor" timestamp="1626157600618">
+    <state x="878" y="200" key="SettingsEditor" timestamp="1630989163193">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state x="878" y="200" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1626157600618" />
+    <state x="878" y="200" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1630989163193" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ChineseBERTTF$TFDataUtils.coverage" NAME="TFDataUtils Coverage Results" MODIFIED="1626314156367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
