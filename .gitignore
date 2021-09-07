@@ -1,0 +1,7 @@
+/pretrained
+bertbaseweight.npy
+/data
+/modelfiles
+/result/*.log
+*.jpg
+resnet18.py
