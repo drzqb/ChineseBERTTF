@@ -39,7 +39,7 @@ PARAMS_batch_size = 8
 
 PARAMS_mode = "train0"
 PARAMS_epochs = 20
-PARAMS_per_save = ceil((271330  + 10075* 0) / PARAMS_batch_size)
+PARAMS_per_save = ceil((271330 + 10075 * 0) / PARAMS_batch_size)
 PARAMS_decay_steps = PARAMS_epochs * PARAMS_per_save
 PARAMS_warmup_steps = 2 * PARAMS_per_save
 PARAMS_save_max = False
@@ -475,7 +475,7 @@ def train_step(model, batch, data, pri, rate, thresh, threshup):
         PD, RD, FD, PC, RC, FC, PSD, RSD, FSD, PSC, RSC, FSC = model([
             sen, noise, noisepy,
             pri, rate, thresh, threshup
-        ])
+        ], training=True)
         meanloss = loss / sumls
 
     trainable_variables = model.trainable_variables
@@ -494,7 +494,7 @@ def test_step(model, data, pri, rate, thresh, threshup):
     TPD, TND, FPD, TPC, TNC, FPC, TPSD, TNSD, FPSD, TPSC, TNSC, FPSC, \
     _, _, _, _, _, _, _, _, _, _, _, _ = model([
         sen, noise, noisepy, pri, rate, thresh, threshup
-    ])
+    ], training=False)
 
     return TPD, TND, FPD, TPC, TNC, FPC, TPSD, TNSD, FPSD, TPSC, TNSC, FPSC
 

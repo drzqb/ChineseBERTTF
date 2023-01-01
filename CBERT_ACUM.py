@@ -7,7 +7,8 @@ from tensorflow.keras.layers import Input, Layer, Dense, Conv1D, MaxPool1D, Embe
 from tensorflow.keras.initializers import Zeros
 from tensorflow.keras.models import Model
 from tensorflow.keras.optimizers.schedules import PolynomialDecay
-from official.nlp.optimization import WarmUp, AdamWeightDecay
+# from official.nlp.optimization import WarmUp, AdamWeightDecay
+from transformers.optimization_tf import WarmUp,AdamWeightDecay
 from math import ceil
 
 import numpy as np
@@ -484,7 +485,7 @@ def train_step(model, gradientaccumulator, batch, data, pri, rate, thresh, thres
         PD, RD, FD, PC, RC, FC, PSD, RSD, FSD, PSC, RSC, FSC = model([
             sen, noise, noisepy,
             pri, rate, thresh, threshup
-        ])
+        ], training=True)
 
     trainable_variables = model.trainable_variables
     gradients = tape.gradient(loss, trainable_variables)
@@ -506,7 +507,7 @@ def test_step(model, data, pri, rate, thresh, threshup):
     TPD, TND, FPD, TPC, TNC, FPC, TPSD, TNSD, FPSD, TPSC, TNSC, FPSC, \
     _, _, _, _, _, _, _, _, _, _, _, _ = model([
         sen, noise, noisepy, pri, rate, thresh, threshup
-    ])
+    ], training=False)
 
     return TPD, TND, FPD, TPC, TNC, FPC, TPSD, TNSD, FPSD, TPSC, TNSC, FPSC
 

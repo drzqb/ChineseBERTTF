@@ -520,7 +520,7 @@ def train_step(model, gradientaccumulator, batch, data, pri, rate, thresh, thres
         PD, RD, FD, PC, RC, FC, PSD, RSD, FSD, PSC, RSC, FSC = model([
             sen, noise, noisepy,
             pri, rate, thresh, threshup
-        ])
+        ], training=True)
 
     trainable_variables = model.trainable_variables
     gradients = tape.gradient(loss, trainable_variables)
@@ -542,7 +542,7 @@ def test_step(model, data, pri, rate, thresh, threshup):
     TPD, TND, FPD, TPC, TNC, FPC, TPSD, TNSD, FPSD, TPSC, TNSC, FPSC, \
     _, _, _, _, _, _, _, _, _, _, _, _ = model([
         sen, noise, noisepy, pri, rate, thresh, threshup
-    ])
+    ], training=False)
 
     return TPD, TND, FPD, TPC, TNC, FPC, TPSD, TNSD, FPSD, TPSC, TNSC, FPSC
 
